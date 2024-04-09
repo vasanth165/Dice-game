@@ -12,7 +12,7 @@ This web page is a dice game where each time the user refreshes the page, JavaSc
 
 ## Demo
 
-You can try out the Dice Game [here](#).
+You can try out the Dice Game [here](https://vasanth165.github.io/Dice-game/).
 
 ## How to Play
 
